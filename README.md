@@ -1,6 +1,6 @@
 > EDICIÓN LIGERA: lee primero EMPIEZA_AQUI.txt. La base se descarga y construye durante la instalación; no viene en este ZIP.
 
-# Oráculo Matemático Universal — versión 1
+# Oráculo Virtual Matemático Universal — versión 1
 
 Aplicación de consola local para Python 3.11 o posterior. No predice sucesos.
 La base incluida contiene vocabulario real de Open Multilingual Wordnet 1.4 y
